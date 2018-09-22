@@ -9,7 +9,9 @@ There are some solutions that I am not sure. I have listed here: Problem 2.37, P
 
 It you have any question, find any wrong solution or come up with better ideas about the problems I listed above, please feel free to contact with me <zhengqigao@163.com> or <14307130100@fudan.edu.cn>
 
-Finally, because of the copyright and the respect to my idol, C.Bishop,  I will only upload the solutions for the first three chapters, you can contact with me about the exercises, I'm willing to discuss and help!
+Finally, because of the copyright, i.e., it is not legal for me to upload/publish all the solutions since PRML is not written by me,  I will only upload the solutions for the first three chapters just for your reference, you can contact with me about the exercises, I'm willing to discuss and help!
+
+PLEASE DONNT TAKE IT FOR OTHER USES.
 
 ### Update List
 
