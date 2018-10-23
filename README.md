@@ -12,9 +12,9 @@ It you have any question, find any wrong solution or come up with better ideas a
 
 Because too many people have asked me for the remaining solutions, I will now upload an updated version online. Moreover, I have emailed Mr. Bishop, and there was actually an official solution manual published by Springer. [You can find it here](https://www.springer.com/gb/book/9780387310732).
 
-Finally, there is a question confused me for a long time. Is is legal for me to write a solution manual and upload it online publicly? PRML is not writte by me and there is actually an offical solution manual:-) 
+Finally, there is a question confused me for a long time. Is is legal for me to write a solution manual and upload it online publicly? PRML is not writte by me and there is actually an offical solution manual:-) Can anyone fammiliar with laws give me an answer?
 
-Can anyone fammiliar with laws give me an answer? If it is illegal, I will withdraw the solution immediately.
+I want to address several issues here: (1) Currently I still do not get the permission of Mr. Bishop to upload this solution manual online. Therefore, maybe I will withdraw this solution maunal someday if it is illegal. (2) This solution manual is only meant to be used as personal study reference, **please donnot take it for other purposes, e.g., upload to other websites**.
 
 ### Update List
 
