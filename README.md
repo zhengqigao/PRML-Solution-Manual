@@ -18,11 +18,14 @@ I want to address several issues here: (1) Currently I still do not get the perm
 
 ### Update List
 
-**Sep22,2018**
+**Sep 22,2018**
 
 Hooray! Currently, I have finished all the solutions in Chapter1-6.
 
-**Oct23,2018**
+**Oct 23,2018**
 
-Hooray! Currently, I have finished all the solutions before Chapter7. However, the update process may be suspended lately because of the heavy workload of my lab projects.
+Hooray! Currently, I have finished all the solutions before Chapter7(included). However, the update process may be suspended lately because of the heavy workload of my lab projects.
 
+**Nov 5,2018**
+
+Hooray! I manage to alive from the project, and I will continue update the solution manual.
