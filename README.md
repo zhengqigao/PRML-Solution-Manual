@@ -10,7 +10,7 @@ There are some solutions that I am not sure. I have listed here: Problem 2.37, P
 
 It you have any question, find any wrong solution or come up with better ideas about the problems I listed above, please feel free to contact with me <zhengqigao@163.com> or <14307130100@fudan.edu.cn>
 
-Because too many people have asked me for the remaining solutions, I will now upload an updated version online. Moreover, I have emailed Mr. Bishop, and there was actually an official solution manual published by Springer. [You can find it here](https://www.springer.com/gb/book/9780387310732).
+Because too many people have asked me for all the solutions, I will now upload an updated version online. Moreover, I have emailed Mr. Bishop, and there was actually an official solution manual published by Springer. [You can find it here](https://www.springer.com/gb/book/9780387310732).
 
 Finally, there is a question confused me for a long time. Is is legal for me to write a solution manual and upload it online publicly? PRML is not writte by me and there is actually an offical solution manual:-) Can anyone fammiliar with laws give me an answer?
 
@@ -28,4 +28,4 @@ Hooray! Currently, I have finished all the solutions before Chapter7(included). 
 
 **Nov 5,2018**
 
-Hooray! I manage to alive from the project, and I will continue update the solution manual.
+Hooray! I manage to stay alive from the project, and I will continue update the solution manual.
