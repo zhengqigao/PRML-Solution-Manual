@@ -20,12 +20,12 @@ I want to address several issues here: (1) Currently I still do not get the perm
 
 **Sep 22,2018**
 
-Hooray! Currently, I have finished all the solutions in Chapter1-6.
+Hooray! Currently, I have finished all the solutions in Chapter 1-6 and already upload it online.
 
 **Oct 23,2018**
 
-Hooray! Currently, I have finished all the solutions before Chapter7(included). However, the update process may be suspended lately because of the heavy workload of my lab projects.
+Hooray! Currently, I have finished all the solutions before Chapter 7(included). However, the update process may be suspended lately because of the heavy workload of my lab projects.
 
-**Nov 5,2018**
+**Nov 26,2018**
 
-Hooray! I manage to stay alive from the project, and I will continue update the solution manual.
+Hooray! Currently, I have (partly) finished chapter 8. Starting from section 8.4.4, I have found that many equations in the book are quite different from what I derive. Therefore, the corresponding exercises (8.19-8.29) are left behind. 
