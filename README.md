@@ -32,4 +32,4 @@ Hooray! Currently, I have (partly) finished chapter 8. Starting from section 8.4
 
 ### Acknowledgments
 
-1. Special thanks to [Dr.Spyridon Chavlis, from IMBB, FORTH](chavlis.spiros@gmail.com). He provides an analytical soultion on Prob 1.34, i.e., back substituting *p*(**x**) into the constraints to prove that it is a Gaussain.
+1. Special thanks to [Dr.Spyridon Chavlis, from IMBB, FORTH](chttp://www.dendrites.gr) (E-mail: chavlis.spiros@gmail.com). He provides an analytical soultion on Prob 1.34, i.e., back substituting *p*(**x**) into the constraints to prove that it is a Gaussain.
