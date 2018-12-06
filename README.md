@@ -29,3 +29,7 @@ Hooray! Currently, I have finished all the solutions before Chapter 7(included).
 **Nov 26,2018**
 
 Hooray! Currently, I have (partly) finished chapter 8. Starting from section 8.4.4, I have found that many equations in the book are quite different from what I derive. Therefore, the corresponding exercises (8.19-8.29) are left behind. 
+
+### Acknowledgments
+
+1. Special thanks to [Dr.Spyridon Chavlis, from IMBB, FORTH](chavlis.spiros@gmail.com). He provides an analytical soultion on Prob 1.34, i.e., back substituting *p*(**x**) into the constraints to prove that it is a Gaussain.
