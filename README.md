@@ -36,6 +36,9 @@ Hooray! Currently, I have finished chapter 9.
 
 It is a godd day today, suitable for telling him/her I love you! He/She will definitely agree to be you bf/gf ! As once a famous guy has said: The bread will have of, the love will also have of. Merry Christmas!
 
+**Jan 31,2019**
+
+Currently, I have finished all the problems before Problem 10.26. However, I may suspend updating the solution manual due to several personal reasons. I promise that I will get back on 13th Feb. 
 
 ### Acknowledgments
 
