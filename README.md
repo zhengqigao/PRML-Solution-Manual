@@ -38,7 +38,11 @@ It is a godd day today, suitable for telling him/her I love you! He/She will def
 
 **Jan 31,2019**
 
-Currently, I have finished all the problems before Problem 10.26. However, I may suspend updating the solution manual due to several personal reasons. I promise that I will get back on 13th Feb. 
+Currently, I have finished all the problems before Problem 10.26. However, I may suspend updating the solution manual due to several personal reasons.
+
+**Feb 19,2019**
+
+I have got back to update the solution manual.
 
 ### Acknowledgments
 
