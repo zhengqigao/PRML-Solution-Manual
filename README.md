@@ -38,6 +38,10 @@ Currently, I have finished all the problems before Problem 10.26. However, I may
 
 I have got back to update the solution manual.
 
+**Mar 5,2019**
+
+Hooray! Currently, I have finished chapter 10 and already upload it online.
+
 ### Acknowledgments
 
 1. Special thanks to [Dr.Spyridon Chavlis, from IMBB, FORTH](http://www.dendrites.gr) (E-mail: chavlis.spiros@gmail.com). He provides an analytical soultion on Prob 1.34, i.e., back substituting *p*(**x**) into the constraints to prove that it is a Gaussain.
