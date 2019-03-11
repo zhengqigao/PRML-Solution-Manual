@@ -1,9 +1,9 @@
 #	Solution Manual For PRML
 
 ### Before the Maintext
-Currently, I am searching for suitable Phd Program. My research interests include: Maching Learning and statistic methods (e.g., MLE, MAP, EM, variational inference, sampling method, etc.), Operational Research theory (both convex and non-convex cases, e.g., GD, SGD, SAGA, SVRG, interior point method, etc.), and Bayesian Inference/Optimization/Network. 
+Currently, I am searching for suitable Phd Program. My research interests include: (1) Maching Learning and statistic methods (e.g., MLE, MAP, EM, variational inference, sampling method, etc.), (2) Numerical Optimization theory (both convex and non-convex cases, e.g., GD, SGD, SAGA, SVRG, interior point method, etc.), (3) Signal processing, analog circuits optimization and (4) Bayesian Inference/Optimization/Network. 
 
-If anyone has opening for Phd and fortunately my research interests match with your lab, please feel free to contact with me <zhengqigao@163.com> or <18212020014@fudan.edu.cn>.
+If anyone has opening for Phd and fortunately my research interests match with your lab, please feel free to contact with me <zhengqigao@163.com> or <18212020014@fudan.edu.cn>, so that I may e-mail you my cv.
 
 ### Instruction
 This is a Solution Manual for the famous book [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf).
