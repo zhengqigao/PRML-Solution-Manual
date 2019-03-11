@@ -1,7 +1,7 @@
 #	Solution Manual For PRML
 
-### Before the maintext
-Currently, I am searching for suitable Phd Program. My research interests include: Maching Learning and statistic methods (e.g., MLE, MAP, EM, variational inference, sampling method, etc.), Operational Research theory (both convex and non-convex cases, e.g., GD, SGD, SAGA, SVRG, interior point method, etc.), and Bayesian Theorem/Inference/Optimization/Network. 
+### Before the Maintext
+Currently, I am searching for suitable Phd Program. My research interests include: Maching Learning and statistic methods (e.g., MLE, MAP, EM, variational inference, sampling method, etc.), Operational Research theory (both convex and non-convex cases, e.g., GD, SGD, SAGA, SVRG, interior point method, etc.), and Bayesian Inference/Optimization/Network. 
 
 If anyone has opening for Phd and fortunately my research interests match with your lab, please feel free to contact with me <zhengqigao@163.com> or <18212020014@fudan.edu.cn>.
 
