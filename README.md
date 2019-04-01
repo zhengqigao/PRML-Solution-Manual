@@ -1,5 +1,6 @@
 #	Solution Manual For PRML
 
+
 ### Before the Maintext
 Currently, I am searching for suitable Phd Program. My research interests include: (1) Maching Learning and statistic methods (e.g., MLE, MAP, EM, variational inference, sampling method, etc.), (2) Numerical Optimization theory (both convex and non-convex cases, e.g., GD, SGD, SAGA, SVRG, interior point method, etc.), (3) Signal processing, analog circuits optimization and (4) Bayesian Inference/Optimization/Network. 
 
@@ -46,6 +47,10 @@ I have got back to update the solution manual.
 **Mar 5,2019**
 
 Hooray! Currently, I have finished chapter 10 and already upload it online.
+
+**Apr 1,2019**
+
+Hooray! Currently, I have finished chapter 11 and already upload it online. Happy Fool's Day!
 
 ### Acknowledgments
 
