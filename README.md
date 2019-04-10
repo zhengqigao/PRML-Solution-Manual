@@ -4,7 +4,10 @@
 ### Before the Maintext
 Currently, I am searching for suitable Phd Program. My research interests include: (1) Maching Learning and statistic methods (e.g., MLE, MAP, EM, variational inference, sampling method, etc.), (2) Numerical Optimization theory (both convex and non-convex cases, e.g., GD, SGD, SAGA, SVRG, interior point method, etc.), (3) Signal processing, analog circuits optimization and (4) Bayesian Inference/Optimization/Network. 
 
-If anyone has opening for Phd and fortunately my research interests match with your lab, please feel free to contact with me <zhengqigao@163.com> or <18212020014@fudan.edu.cn>, so that I may e-mail you my cv.
+If anyone has opening for Phd and fortunately you are interested in my research, please feel free to contact with me <zhengqigao@163.com> or <18212020014@fudan.edu.cn>, so that I may e-mail you my cv.
+
+The updating of solution manual is now suspendend indefinitely. I have finished Chapter1-Chapter11, and all solutions have already been uploaded online. When I get back to update is still unkown, but I will finish it anyway. Maybe after I finish my Graduate program and become a Phd candidate. However, you can still e-mail me if you have any problem with respect to the book or the solutions and I am willing to help.
+
 
 ### Instruction
 This is a Solution Manual for the famous book [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf).
@@ -51,6 +54,10 @@ Hooray! Currently, I have finished chapter 10 and already upload it online.
 **Apr 1,2019**
 
 Hooray! Currently, I have finished chapter 11 and already upload it online. Happy Fool's Day!
+
+**Apr 10,2019**
+
+The updating is suspendedn indefinitely, but I will get back to it someday in the future.
 
 ### Acknowledgments
 
