@@ -57,7 +57,7 @@ Hooray! Currently, I have finished chapter 11 and already upload it online. Happ
 
 **Apr 10,2019**
 
-The updating is suspendedn indefinitely, but I will get back to it someday in the future.
+The updating is suspended indefinitely, but I will get back to it someday in the future.
 
 ### Acknowledgments
 
