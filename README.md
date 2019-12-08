@@ -4,7 +4,7 @@
 ### Before the Maintext
 Currently, I am searching for suitable PhD Program. My research interests include: (1) Maching Learning and statistic methods (e.g., MLE, MAP, EM, variational inference, sampling method, etc.), (2) Numerical Optimization theory (both convex and non-convex cases, e.g., GD, SGD, SAGA, SVRG, interior point method, etc.), (3) Signal processing, analog circuits optimization and (4) Bayesian Inference/Optimization/Network. 
 
-If anyone has opening for Phd and fortunately you are interested in my research, please feel free to contact with me <zhengqigao@163.com> or <18212020014@fudan.edu.cn>, so that I may e-mail you my cv. Also, you can find more info about my research and me on my [homepage](http://zhengqigao.github.io/)
+If anyone has opening for Phd and fortunately you are interested in my research, please feel free to contact with me <zhengqigao@163.com> or <18212020014@fudan.edu.cn>, so that I may e-mail you my cv. Also, you can find more info about my research and me on my [homepage](http://zhengqigao.github.io/).
 
 The updating of solution manual is now suspendend indefinitely. I have finished Chapter1-Chapter11, and all solutions have already been uploaded online. When I get back to update is still unkown, but I will finish it anyway. Maybe after I finish my Graduate program and become a Phd candidate. However, you can still e-mail me if you have any problem with respect to the book or the solutions and I am willing to help.
 
