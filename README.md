@@ -2,12 +2,14 @@
 
 
 ### Before the Maintext
-Currently, I am searching for suitable PhD Program. My research interests include: (1) Maching Learning and statistic methods, (2) Numerical Optimization theory, (3) Signal processing, analog circuits optimization and (4) Bayesian Inference/Optimization/Network.  More detaild info can be found on my [homepage](https://zhengqigao.github.io/). If anyone has opening for PhD and fortunately you are interested in my research, please feel free to contact with me <zhengqigao@163.com> or <18212020014@fudan.edu.cn>, so that I may e-mail you my cv.
+Currently, I am searching for suitable PhD Program. My research interests include: (1) Maching Learning and statistic methods, (2) Numerical Optimization theory, (3) Signal processing, analog circuits optimization and (4) Bayesian Inference/Optimization/Network.  More detaild info can be found on my [homepage](https://zhengqigao.github.io/).
+
+If anyone has opening for PhD and fortunately you are interested in my research, please feel free to contact with me <zhengqigao@163.com> or <18212020014@fudan.edu.cn>, so that I may e-mail you my cv.
 
 The updating of solution manual is now suspendend indefinitely. I have finished **Chapter1-Chapter11**, and all solutions have already been uploaded online.
 
 I have several issues which need to be addressed here:
-(1) I wrote this solution manual purely out of admiration and worship of PRML. **I don't and won't have the will to make profit using this solution manual or further publish this solutiona manual**, (2)It is only meant to be used as personal study reference, **please donnot take it for other purposes, e.g., upload to other websites or publication**. Otherwise, I will withdraw this solution manual. (3) If it is illegal (infringing the copyright), please contact me and I will withdraw this solution maunal immediately. (4) There is actually an official solution manual published by **Springer**. [You can find it here](https://www.springer.com/gb/book/9780387310732).
+(1) I wrote this solution manual purely out of admiration and worship of PRML, **and I have no will to publish this solutiona manual**, (2)It is only meant to be used as personal study reference, **please donnot take it for other purposes, e.g., upload to other websites or publication**. (3) If it is illegal (infringing the copyright), please contact me and I will withdraw this solution maunal immediately. (4) There is actually an official solution manual published by Springer. [You can find it here](https://www.springer.com/gb/book/9780387310732).
 
 ### Instruction
 This is a Solution Manual for the famous book [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf).
