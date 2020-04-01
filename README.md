@@ -2,7 +2,7 @@
 
 
 ### Before the Maintext
-Currently, I am searching for suitable PhD Program. My research interests include: (1) Maching Learning and statistic methods, (2) Numerical Optimization theory, (3) Signal processing, analog circuits optimization and (4) Bayesian Inference/Optimization/Network.  More detaild info can be found on my [homepage](https://zhengqigao.github.io/).
+I am now searching for suitable PhD Program. My research interests include: (1) Maching Learning and statistic methods, (2) Numerical Optimization theory, (3) Signal processing, analog circuits optimization and (4) Bayesian Inference/Optimization/Network.  More detaild info can be found on my [homepage](https://zhengqigao.github.io/).
 
 If anyone has opening for PhD and fortunately you are interested in my research, please feel free to contact with me <zhengqigao@163.com> or <18212020014@fudan.edu.cn>, so that I may e-mail you my cv.
 
