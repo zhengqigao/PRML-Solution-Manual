@@ -1,7 +1,7 @@
 #	Solution Manual For PRML
 
 ### Before the Maintext
-I am now getting back to update the solution manual, irregularly though :). Please feel free to contact me at <zqgao@fudan.edu.cn> or <zhengqi@mit.com> (transition period). More detaild info can be found on my [homepage](https://zhengqigao.github.io/).
+I am now getting back to update the solution manual, irregularly though :). Please feel free to contact me at <zqgao@fudan.edu.cn> or <zhengqi@mit.edu> (transition period). More detaild info can be found on my [homepage](https://zhengqigao.github.io/).
 
 I have finished **Chapter1-Chapter11**, and all solutions have already been uploaded online.
 
