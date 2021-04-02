@@ -11,8 +11,7 @@ I have several issues which need to be addressed here:
 ### Instruction
 This is a solution manual for the famous book [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf). I will keep update the solutions as my learning process goes on.
 
-There are some problems that I am not sure, which have been marked by "Waiting for update" in the solution manual. If you want to provide a solution for these unsolving problems, have any question, or come up with better ideas about any problem in the manual, please feel free to contact with me <zhengqigao@163.com> or <18212020014@fudan.edu.cn>
-
+There are some problems that I am not sure, which have been marked by "Waiting for update" in the solution manual. If you want to provide a solution for these unsolving problems, have any question, or come up with better ideas about any problem in the manual, please feel free to contact me.
 ### Update List
 
 **Sep 22,2018**
