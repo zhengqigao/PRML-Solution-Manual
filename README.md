@@ -5,7 +5,7 @@ I am now getting back to update the solution manual, irregularly though :). Plea
 
 I have finished **Chapter1-Chapter11**, and all solutions have already been uploaded online.
 
-I have several issues which need to be addressed here:
+Several things need to be emphasized here:
 (1) I wrote this solution manual purely out of admiration of PRML, **and I have no will to publish this solutiona manual**, (2)It is only meant to be used as personal study reference, **please donnot take it for other purposes, e.g., upload to other websites or publication**. (3) If it is illegal (infringing the copyright), please contact me and I will withdraw this solution maunal immediately. (4) There is actually an official solution manual published by Springer. [You can find it here](https://www.springer.com/gb/book/9780387310732).
 
 ### Instruction
